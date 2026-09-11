@@ -1,0 +1,60 @@
+# ===== Unity 自动生成目录 =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+ProfilerCaptures/
+
+# ===== 自动生成的 IDE 解决方案与工程文件 =====
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== Unity 生成的 meta 文件 =====
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ===== 崩溃报告 =====
+sysinfo.txt
+
+# ===== 构建产物 =====
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ===== Addressables =====
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# ===== 临时生成的 Android 资源 =====
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ===== IDE =====
+.vscode/
+.idea/
+.vs/
+*.swp
+
+# ===== macOS =====
+.DS_Store
